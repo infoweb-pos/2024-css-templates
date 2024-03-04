@@ -12,6 +12,10 @@
 - [Tailwind](https://tailwindcss.com/)
   - [A free repository for community components using Tailwind CSS](https://tailwindcomponents.com/)
 - Outros frameworks css
-  - 
+  - Bootstrap
+- Layout CSS
+  - [mdn web docs](https://developer.mozilla.org/pt-BR/)
+    - [learn CSS layout](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout)
+    - [guides CSS layoyt](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
 ## Arquivo index.html
