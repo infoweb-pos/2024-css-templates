@@ -9,4 +9,9 @@
 
 ## Links
 
+- [Tailwind](https://tailwindcss.com/)
+  - [A free repository for community components using Tailwind CSS](https://tailwindcomponents.com/)
+- Outros frameworks css
+  - 
+
 ## Arquivo index.html
